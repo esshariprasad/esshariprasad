@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I'm currently studying masters in Computer Science at University of Houston. 
+
 - 🌱 Passionate about Fullstack, Backend and designining high availabilty cloud applications.
 - 📫 How to reach me: esshariprasad@gmail.com
 - 😄 Pronouns: HE/HIM 
 -->
 
-<!-- My Resume: -->
-<!-- https://esshariprasad.github.io -->
 
-MY Recent projects: 🕸💻⌨ <br>
-https://esshariprasad.github.io/Forkify/ - A recipe search app built on an Forkify api<br>
-https://esshariprasad.github.io/HTML5-CSS3/ - A Truly responsive webpage
+
+
 
 
 
