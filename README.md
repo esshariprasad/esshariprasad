@@ -14,7 +14,8 @@ https://esshariprasad.github.io/HTML5-CSS3/ - A Truly responsive webpage
 
 
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://user-images.githubusercontent.com/19888725/229409722-3a49d98a-0d3c-44b8-b547-c153b466e1d9.gif" height="32px">
+
 
 [<img src="https://user-images.githubusercontent.com/19888725/229408845-57a219b1-b1f9-4688-960a-35e248627bb0.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/sai-shiva-hari-prasad/) 
 [<img src="https://user-images.githubusercontent.com/19888725/229409011-d31b539f-9beb-4b5c-83e1-7828be787262.svg" alt="instagram logo" width="32">](https://www.instagram.com/s_s_harii/)
