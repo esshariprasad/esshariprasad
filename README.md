@@ -6,8 +6,6 @@
 - 😄 Pronouns: HE/HIM 
 -->
 
-https://esshariprasad.github.io/Forkify/ - A recipe search app built on an Forkify api<br>
-https://esshariprasad.github.io/HTML5-CSS3/ - A Truly responsive webpage
 
 
 
