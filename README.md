@@ -7,7 +7,9 @@
 - My Blog: [saishivahariprasad.com](http://saishivahariprasad.com/)
 
 
-My Recent Serverless Image Resizer Project:
+My Recent Project:
+
+Serverless Image Resizer
 
 https://saishivahariprasad.com/ImageResizer.html
 
