@@ -7,8 +7,18 @@
 - My Blog: [saishivahariprasad.com](http://saishivahariprasad.com/)
 
 
-My Recent Serverless Image Resizer Project
+My Recent Serverless Image Resizer Project:
+
 https://saishivahariprasad.com/ImageResizer.html
+=========================
+Developed a Serverless image resizing service using Python, Leveraging AWS Lambda, API Gateway, and microservices framework for building API's, and Amazon S3 for storage.
+
+You can access the project at https://saishivahariprasad.com/ImageResizer.html. 
+
+
+Additionally, the API URL for resizing images is https://zhqqdj4ggf.execute-api.us-east-1.amazonaws.com/api/UploadImage/. 
+
+You can use the following request syntax for resizing: API-URL/WXH, for example, https://zhqqdj4ggf.execute-api.us-east-1.amazonaws.com/api/UploadImage/300X300 will resize the image to 300 width and 300 height.
 
 
 
