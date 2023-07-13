@@ -10,7 +10,7 @@
 My Recent Serverless Image Resizer Project:
 
 https://saishivahariprasad.com/ImageResizer.html
-=========================
+
 Developed a Serverless image resizing service using Python, Leveraging AWS Lambda, API Gateway, and microservices framework for building API's, and Amazon S3 for storage.
 
 You can access the project at https://saishivahariprasad.com/ImageResizer.html. 
