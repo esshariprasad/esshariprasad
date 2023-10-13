@@ -2,7 +2,6 @@
 
 
 - 🌱 Passionate about Fullstack, Backend and designing high availabilty cloud applications.
-- 📫 How to reach me: esshariprasad@gmail.com
 - 😄 Pronouns: HE/HIM 
 - My Blog: [saishivahariprasad.com](http://saishivahariprasad.com/)
 
