@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 Passionate about Fullstack, Backend and designing high availabilty cloud applications.
+- 🌱 Passionate about Fullstack and designing high availabilty cloud applications.
 - 😄 Pronouns: HE/HIM 
 - My Blog: [saishivahariprasad.com](http://saishivahariprasad.com/)
 
