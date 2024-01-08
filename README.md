@@ -15,7 +15,7 @@ https://saishivahariprasad.com/ImageResizer.html
 Responsive webpage using CS33,HTML5:
 https://esshariprasad.github.io/HTML5-CSS3/
 
-Developed a Serverless image resizing service using Python, Leveraging AWS Lambda, API Gateway, and microservices framework for building API's, and Amazon S3 for storage.
+Developed a Serverless image resizing service using Python, Leveraging AWS Lambda, API Gateway, and Chalice microservices framework for building API's, and Amazon S3 for storage.
 
 You can access the project at https://saishivahariprasad.com/ImageResizer.html. 
 
