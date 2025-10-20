@@ -6,18 +6,6 @@
 - My Blog: [saishivahariprasad.com](http://saishivahariprasad.com/)
 
 
-My Recent Project:
-
-Serverless Image Resizer
-
-https://saishivahariprasad.com/ImageResizer.html
-
-
-Developed a Serverless image resizing service using Python, Leveraging AWS Lambda, API Gateway, and Chalice microservices framework for building API's, and Amazon S3 for storage.
-
-You can access the project at https://saishivahariprasad.com/ImageResizer.html. 
-
-
 
 
 # Connect with me<img src="https://user-images.githubusercontent.com/19888725/229409722-3a49d98a-0d3c-44b8-b547-c153b466e1d9.gif" height="32px">
