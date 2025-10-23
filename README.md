@@ -3,7 +3,7 @@
 
 - 🌱 Passionate about Fullstack and designing high availabilty cloud applications.
 - 😄 Pronouns: HE/HIM 
-- My Blog: [saishivahariprasad.com](http://saishivahariprasad.com/)
+- portfolio: [saishivahariprasad.com](http://saishivahariprasad.com/)
 
 
 
